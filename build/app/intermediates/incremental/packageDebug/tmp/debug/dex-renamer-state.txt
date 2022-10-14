@@ -1,0 +1,4 @@
+#Fri Oct 14 21:44:16 ICT 2022
+base.0=C\:\\Users\\Jonatan Hutahaean\\OneDrive\\Desktop\\Kuliah\\Semester 5\\Pemrograman Berbasis Mobile\\Praktikum 1\\Tugas 2\\tugas2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
